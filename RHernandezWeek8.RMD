@@ -1,3 +1,40 @@
 In Week 1
 I learned overfitting can occur when a model fits too closely to the training dataset and does not generalize well to new instances, due to reasons such as small training data size, noisy data, long training time, or high model complexity.
 I learned two solutions to overfitting are early stopping, which pauses training before the model learns the noise in the data, and ensembling, which combines predictions from multiple machine learning algorithms, using methods such as bagging or boosting.
+
+In Week 2
+I learned exploratory data analysis involves exploring data to identify trends and outliers, often with a specific question in mind, and is used for marketing reporting and other preliminary analysis.
+I learned explanatory data analysis goes beyond exploratory and focuses on communicating findings and insights to stakeholders and decision-makers, showing the important discoveries from exploratory analysis.
+
+In Week 3
+I leanred in linear regression, the assumption of uncorrelated errors means that the errors (residuals) for any pair of observations in the dataset are not related to each other in any systematic way.
+I learned violation of the assumption of uncorrelated errors can lead to biased and inconsistent estimates of the regression coefficients and affect the validity of statistical tests and confidence intervals based on the linear regression model.
+
+In Week 4
+I learned precision and Recall are metrics used to evaluate a classifier's performance, where Precision measures the classifier's ability to identify True Positives while minimizing False Positives, while Recall measures the classifier's ability to detect all True Positives, even if it means including False Positives.
+I learned precision is preferred in applications where False Positives can lead to significant consequences, such as in medical diagnostic testing, while Recall is more appropriate in applications where missing True Positives is not as critical, such as in Object Detection for computer vision systems.
+
+In Week 5
+I learned Advantages of GLM:
+GLMs allow for more flexible, non-linear relationships between response and predictor variables.
+GLMs can provide pure effects of independent variables on the dependent variable and do not require the assumption that error terms have a variance independent of the mean.
+I learned Disadvantages of GLM:
+GLMs require high-powered computing hardware and can have long processing times, especially when dealing with large datasets.
+Building effective GLMs can require a considerable amount of experience and multiple trial-and-error runs, making them difficult to review and potentially limiting their use to those with large portfolios.
+
+In Week 6
+I learned Pros of GBM:
+GBM can produce highly accurate models for a variety of tasks and is able to capture non-linear relationships between input features and output variables.
+GBM is generally robust to outliers and can handle noisy data well, as each tree in the ensemble only focuses on a subset of the data.
+I learned Cons of GBM:
+GBM is prone to overfitting if hyperparameters are not properly tuned, leading to a complex model that performs well on training data but poorly on new data.
+GBM is computationally expensive and can take a long time to train on large datasets with many features, and has many hyperparameters that need to be carefully tuned, making it difficult to find the optimal configuration.
+
+In Week 7
+I learned unsupervised learning algorithms aim to discover underlying patterns or structures in data without labeled information. Three popular applications of unsupervised learning include clustering, dimensionality reduction, and anomaly detection.
+I learned clustering groups similar data points together, dimensionality reduction reduces the number of features in a dataset, and anomaly detection identifies unusual patterns or outliers in data. These techniques are used in various fields, such as customer segmentation, data visualization, fraud detection, and equipment failure prediction.
+
+In Week 8
+I learned git commands like git clone, git commit, and git pull
+I learned how create a github account. Im still learning how everything works with GitHub, but I did learn alot about this site.
+
