@@ -1,0 +1,3 @@
+In Week 1
+I learned overfitting can occur when a model fits too closely to the training dataset and does not generalize well to new instances, due to reasons such as small training data size, noisy data, long training time, or high model complexity.
+I learned two solutions to overfitting are early stopping, which pauses training before the model learns the noise in the data, and ensembling, which combines predictions from multiple machine learning algorithms, using methods such as bagging or boosting.
